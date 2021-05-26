@@ -1,4 +1,4 @@
-﻿using Exercise5MVC_CRUD.Models;
+﻿using Exercise4MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Exercise5MVC_CRUD.Controllers
+namespace Exercise4MVC.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace Exercise5MVC_CRUD.Models
+namespace Exercise4MVC.Models
 {
     public class ErrorViewModel
     {
